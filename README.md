@@ -1,2 +1,3 @@
-# dblib-benchs
-scala db libraries benchmarks
+# scala-benchs
+
+different benchmarks of scala constructions
